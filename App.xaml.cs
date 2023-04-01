@@ -13,5 +13,7 @@ namespace perceptron
     /// </summary>
     public partial class App : Application
     {
+
+
     }
 }
